@@ -1,0 +1,2 @@
+# Customer-Churn-Analysis
+Ctrip is China's leading integrated travel service company, offering a full range of travel services to more than 250 million members every day, but its lead may be in jeopary as foreign companies aggressively enter the Chinese market and lose some customers. We will have an in-depth understanding of user profiles and behavioral preferences, dig out the key factors affecting user loss, and predict the conversion results of customer visits through algorithms, so as to better improve product design and enhance user experience.
